@@ -1,1 +1,14 @@
+server:
+  port: 9000
 
+spring:
+  application:
+    name: "Authorization Server"
+  jackson:
+    serialization:
+      INDENT_OUTPUT: true
+
+security:
+  key-store: classpath:keystore.jks
+  alias: servercert
+  key-store-pass: 8LSrq4NAvGDR1HjvwgclS

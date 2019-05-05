@@ -1,4 +1,4 @@
-package gs.spring.oauth.security.authorizationserver;
+package gs.spring.oauth.security.authorization;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

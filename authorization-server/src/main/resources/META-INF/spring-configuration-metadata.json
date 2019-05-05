@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "gs.spring.oauth.security.authorization.props.SecurityProperties",
+      "name": "security",
+      "type": "gs.spring.oauth.security.authorization.props.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "gs.spring.oauth.security.authorization.props.SecurityProperties",
+      "name": "security.key-store",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "gs.spring.oauth.security.authorization.props.SecurityProperties",
+      "name": "security.alias",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "gs.spring.oauth.security.authorization.props.SecurityProperties",
+      "name": "security.key-store-pass",
+      "type": "java.lang.String"
+    }
+  ]
+}
