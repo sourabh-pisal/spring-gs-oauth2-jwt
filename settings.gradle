@@ -6,3 +6,4 @@ pluginManagement {
 rootProject.name = 'spring-gs-oauth2-jwt'
 
 include 'authorization-server'
+include 'resource-server'
