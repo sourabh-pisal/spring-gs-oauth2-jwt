@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'spring-gs-oauth2-jwt'
+
+include 'authorization-server'
